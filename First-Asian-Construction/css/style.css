@@ -35,6 +35,7 @@ section {
 }
 .header-icons {
   margin-top: 0.6rem;
+  margin-right: 5rem;
 }
 .header-icons a:hover {
   color: #fff;
@@ -764,6 +765,7 @@ button:focus {
 }
 @media (max-width: 400px) {
   .header-icons {
+    display: none;
     margin-top: 0.9rem;
     margin-left: 2rem;
   }
