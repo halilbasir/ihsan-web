@@ -690,6 +690,7 @@ button:focus {
     margin-bottom: 3rem;
   }
   .process .square-subtitle {
+    font-size: 1.1rem;
     text-align: left;
     position: absolute;
     top: 25%;
